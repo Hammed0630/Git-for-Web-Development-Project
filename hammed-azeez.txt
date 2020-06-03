@@ -29,30 +29,39 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     15. How do I reference an id?
     16. What is the difference between a section and a div
     17. What is CSS used for? 
+    CSS describes how HTML elements should be displayed.
     18. How do we select an element? Example - every h2 on the page
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
     20. How do we select classes in CSS?
+    with a #
     21. How do we select a p element with a single class of “human””?
+    #human
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
     25. What do we use the change the spacing between lines?
+
     26. What do we use to change the spacing between letters?
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
     28. How do I add a 1px border around my div that is dotted and black?
     29. How do I select everything on the page? 
+    with *
     30. How do I write a comment in CSS?
      by entering "/*" and closing with "*/"
     31. How do I find out what file I am in, when I am using the command line? 
     by entering "pwd"
-    32. Using the command line - how do I see a list of files/folders in my current folder? by entering "ls"
-    33. How do I remove a file via the command line? Why do I have to be careful with this? by entering "rm" and this is a permanent action unlike delteing from the GUI
+    32. Using the command line - how do I see a list of files/folders in my current folder?
+     by entering "ls"
+    33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    by entering "rm" and this is a permanent action unlike delteing from the GUI
     34. Why should I use version control? 
     35. How often should I commit to github? 
     every 20 mins 
     36. What is the command we would use to push our repo up to github? 
     git push
     37. Walk me through Lambda's git flow. 
+    fork, add tl, clone, glit clone, git checkout b for new branch, 
+    after making changes git add, commit, and push, and then pull request
 
 Stretch Questions
 
