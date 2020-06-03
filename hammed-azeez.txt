@@ -6,23 +6,30 @@ https://codepen.io/hammed0630/pen/PoZobrL
 Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
 
     1. What is Semantic HTML? 
+    it is html that gives meaning to our content
     2. What is HTML used for? 
+    its used for structure of the webpage that you're building
     3. What is an attribute and where do we put it? 
+    attribute provides additional information about an HTML element
     4. What is the h1 tag used for? How many times should I use it on a page?
+    main header for the page and can only be used once
     5. Name two tags that have required attributes
     6. What do we put in the head of our HTML document? 
+    <header>
     7. What is an id? 
+    id attribute is used to specify a unique id for an HTML element 
     8. What elements can I add an id to? 
     9. How many times can I use the same id on a page? 
     10. What is a class? 
+    class attribute is used to define equal styles for elements with the same class name.
     11. What elements can I add a class to? 
-    12. How many times can I use the same class on a page? 
+    12. How many times can I use the same class on a page? only once
     13. How do I get my link to open in a new tab?
     14. What is the alt attribute in the image tag used for? 
     15. How do I reference an id?
     16. What is the difference between a section and a div
     17. What is CSS used for? 
-    18. How to we select an element? Example - every h2 on the page
+    18. How do we select an element? Example - every h2 on the page
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
     20. How do we select classes in CSS?
     21. How do we select a p element with a single class of “human””?
@@ -41,8 +48,10 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     32. Using the command line - how do I see a list of files/folders in my current folder? by entering "ls"
     33. How do I remove a file via the command line? Why do I have to be careful with this? by entering "rm" and this is a permanent action unlike delteing from the GUI
     34. Why should I use version control? 
-    35. How often should I commit to github? every 20 mins 
+    35. How often should I commit to github? 
+    every 20 mins 
     36. What is the command we would use to push our repo up to github? 
+    git push
     37. Walk me through Lambda's git flow. 
 
 Stretch Questions
